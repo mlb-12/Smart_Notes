@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.perspective {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+body {
+  @apply bg-gradient-to-br from-blue-50 to-purple-100 
+         dark:from-gray-900 dark:to-gray-800 
+         transition-colors duration-300;
+}
+
