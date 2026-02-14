@@ -20,32 +20,32 @@ Users can create notes, add draggable stickers, summarize content using AI resea
 ### The Problem statement
 Traditional note-taking:
 
--Can be easily lost
+- Can be easily lost
 
--Is not interactive
+- Is not interactive
 
--Lacks motivation
+- Lacks motivation
 
--Doesn’t integrate research tools
+- Doesn’t integrate research tools
 
--Feels boring and repetitive
+- Feels boring and repetitive
 
 Students struggle to stay consistent and organized.
 
 ### The Solution
 SmartNote solves this by:
 
--Cloud-based secure storage (Firebase)
+- Cloud-based secure storage (Firebase)
 
--AI-powered research & summarization
+- AI-powered research & summarization
 
--Public note sharing & forking
+- Public note sharing & forking
 
--Interactive draggable stickers/ Diagrams
+- Interactive draggable stickers/ Diagrams
 
-Explore & like system
+- Explore & like system
 
-Learning becomes fun, interactive, and rewarding.
+- Learning becomes fun, interactive, and rewarding.
 
 ---
 
@@ -137,17 +137,17 @@ User → React Frontend → Firebase Auth
 
 **Application Workflow:**
 
-User signs up / logs in
+- User signs up / logs in
 
-Creates a note
+- Creates a note
 
-Adds AI research content
+- Adds AI research content
 
-Saves note to Firestore
+- Saves note to Firestore
 
-Can publish note publicly
+- Can publish note publicly
 
-Others can explore, like, and fork
+- Others can explore, like, and fork
 
 ---
 
@@ -163,55 +163,55 @@ key features, user flow, technical highlightsThe demo video provides a complete 
 
 🔐 1. User Authentication
 
-User signs up and logs in using Firebase Authentication (Email/Password).
+- User signs up and logs in using Firebase Authentication (Email/Password).
 
-Secure access ensures personalized note management.
+- Secure access ensures personalized note management.
 
 📝 2. Creating & Managing Notes
 
-Creating a new note with title and content.
+- Creating a new note with title and content.
 
-Editing and saving notes to Firestore.
+- Editing and saving notes to Firestore.
 
-Deleting notes.
+- Deleting notes.
 
-Real-time database updates.
+- Real-time database updates.
 
 🤖 3. AI Research & Summarization
 
-Using the AI research feature to generate summarized content.
+- Using the AI research feature to generate summarized content.
 
-Selecting and appending AI-generated research directly into notes.
+- Selecting and appending AI-generated research directly into notes.
 
-Demonstrating how research integrates seamlessly into the writing workflow.
+- Demonstrating how research integrates seamlessly into the writing workflow.
 
 🌍 4. Explore Page
 
-Viewing public notes shared by other users.
+- Viewing public notes shared by other users.
 
-Searching notes.
+- Searching notes.
 
-Liking notes.
+- Liking notes.
 
-Forking public notes into personal workspace.
+- Forking public notes into personal workspace.
 
 🔄 5. Complete User Flow
 
 The video demonstrates the full journey:
 
-Login
+- Login
 
-Create note
+- Create note
 
-Use AI research
+- Use AI research
 
-Save note
+- Save note
 
-Publish publicly
+- Publish publicly
 
-Explore other notes
+- Explore other notes
 
-Like and fork
+- Like and fork
 
 ---
 
@@ -220,46 +220,46 @@ Like and fork
 
 **Purpose:** ai assistance
 - Debugging Firebase integration
--Coding help
--Structuring Firestore collections
--Optimizing React components
+- Coding help
+- Structuring Firestore collections
+- Optimizing React components
 
 **Key Prompts Used:**
 - "Build a Firebase email/password authentication system in React."
 
--"Create a Firestore structure for storing user notes securely."
+- "Create a Firestore structure for storing user notes securely."
 
--"Implement XP-based gamification logic in a React app."
+- "Implement XP-based gamification logic in a React app."
 
--"Debug why Firestore snapshot listener is stuck on loading."
+- "Debug why Firestore snapshot listener is stuck on loading."
 
--"How to implement a like and fork system in Firestore?"
+- "How to implement a like and fork system in Firestore?"
 
--"Create an AI research summarizer that appends selected content into a textarea."
+- "Create an AI research summarizer that appends selected content into a textarea."
 
--"Fix React state not updating after async Firestore call."
+- "Fix React state not updating after async Firestore call."
 
--"Implement draggable stickers using InteractJS."
+- "Implement draggable stickers using InteractJS."
 
--"Optimize Firestore queries for public explore page search."
+- "Optimize Firestore queries for public explore page search."
 
--"Design a simple system architecture for a React + Firebase web app."
+- "Design a simple system architecture for a React + Firebase web app."
 
--"How to deploy a React app using Firebase Hosting?"
+- "How to deploy a React app using Firebase Hosting?"
 
--"Explain Firebase security rules for user-based data access."
+- "Explain Firebase security rules for user-based data access."
 **Percentage of AI-generated code:** Approximately 45%
 
 **Human Contributions:**
 - Full architecture design
 
--UI layout & styling
+- UI layout & styling
 
--Feature implementation
+- Feature implementation
 
--Firebase integration
+- Firebase integration
 
--Testing & debugging
+- Testing & debugging
 
 ---
 
@@ -267,7 +267,7 @@ Like and fork
 
 - Fathima Maha: Specific contributions -  Frontend development, API integration
 - Hanan Aslam: Specific contributions - e.g., Backend development, Database design
-- 
+  
 
 ---
 
