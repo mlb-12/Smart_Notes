@@ -103,20 +103,25 @@ Run commands -  npm start
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots
+
+Dashboard with Progress Bar
 
 <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/11d33d07-1bf2-4341-82ba-6cad194b035b" />
-*Dashboard with Progress Bar*
+
+Explore Public Notes, Fork
 
 <img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/9445473a-f7c9-4ff3-ad46-29791315c75b" />
-*Explore Public Notes, Fork*
+
+Create new note- Ai research, Insert Diagram
 
 <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e011cfa1-589b-4b63-bd05-197506e4468c" />
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/90bee47d-8acd-4311-994f-b167670c1758" />
-*Create new note- Ai research, Insert Diagram*
+
+Create and view Flash Cards
 
 <img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/c62d5987-33f7-4459-87a2-188a0950a99b" />
-*Create and view Flash Cards*
+
 
 
 #### Diagrams
