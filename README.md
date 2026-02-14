@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
-</p>
+
 
 # Smart Notes 🎯
 
@@ -13,7 +11,7 @@
 - Member 2: Fathima Maha - Goverment Engineering College, Kozhikode
 
 ### Hosted Project Link
-[mention your project hosted link here
+mention your project hosted link here
 
 ### Project Description
 SmartNote is an AI-powered digital note-making web application.
@@ -107,20 +105,24 @@ Run commands -  npm start
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/11d33d07-1bf2-4341-82ba-6cad194b035b" />
+*Dashboard with Progress Bar*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/9445473a-f7c9-4ff3-ad46-29791315c75b" />
+*Explore Public Notes, Fork*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e011cfa1-589b-4b63-bd05-197506e4468c" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/90bee47d-8acd-4311-994f-b167670c1758" />
+*Create new note- Ai research, Insert Diagram*
+
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/c62d5987-33f7-4459-87a2-188a0950a99b" />
+*Create and view Flash Cards*
+
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
 *User → React Frontend → Firebase Auth
                           ↓
                      Firestore DB
@@ -130,7 +132,6 @@ Run commands -  npm start
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
 *User signs up / logs in
 
 Creates a note
@@ -146,40 +147,69 @@ Others can explore, like, and fork*
 ---
 
 
-#### Build Photos
 
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
----
-
-
-
----
 
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+[https://drive.google.com/file/d/1iTZQwepynuCG4nbjV0zh1Sexxa6LMkq5/view?usp=sharing]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+*Explain what the video demonstrates - key features, user flow, technical highlightsThe demo video provides a complete walkthrough of SmartNote, covering all major features and technical capabilities of the platform.
 
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+🔐 1. User Authentication
+
+User signs up and logs in using Firebase Authentication (Email/Password).
+
+Secure access ensures personalized note management.
+
+📝 2. Creating & Managing Notes
+
+Creating a new note with title and content.
+
+Editing and saving notes to Firestore.
+
+Deleting notes.
+
+Real-time database updates.
+
+🤖 3. AI Research & Summarization
+
+Using the AI research feature to generate summarized content.
+
+Selecting and appending AI-generated research directly into notes.
+
+Demonstrating how research integrates seamlessly into the writing workflow.
+
+🌍 4. Explore Page
+
+Viewing public notes shared by other users.
+
+Searching notes.
+
+Liking notes.
+
+Forking public notes into personal workspace.
+
+🔄 5. Complete User Flow
+
+The video demonstrates the full journey:
+
+Login
+
+Create note
+
+Use AI research
+
+Save note
+
+Publish publicly
+
+Explore other notes
+
+Like and fork*
 
 ---
 
-## AI Tools Used (Optional - For Transparency Bonus)
-
-If you used AI tools during development, document them here for transparency:
 
 **Tool Used:** ChatGPT
 
