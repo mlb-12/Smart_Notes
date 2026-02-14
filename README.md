@@ -11,8 +11,8 @@
 - Member 2: Fathima Maha - Goverment Engineering College, Kozhikode
 
 ### Hosted Project Link
-mention your project hosted link here
-
+[project hosted link 
+](https://smart-notes-beryl.vercel.app/)
 ### Project Description
 SmartNote is an AI-powered digital note-making web application.
 Users can create notes, add draggable stickers, summarize content using AI research, and explore public notes shared by others.
