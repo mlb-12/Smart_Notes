@@ -128,16 +128,16 @@ Create and view Flash Cards
 
 **System Architecture:**
 
-*User → React Frontend → Firebase Auth
+User → React Frontend → Firebase Auth
                           ↓
                      Firestore DB
                           ↓
                    AI Research API
-*
+
 
 **Application Workflow:**
 
-*User signs up / logs in
+User signs up / logs in
 
 Creates a note
 
@@ -147,7 +147,7 @@ Saves note to Firestore
 
 Can publish note publicly
 
-Others can explore, like, and fork*
+Others can explore, like, and fork
 
 ---
 
@@ -159,7 +159,7 @@ Others can explore, like, and fork*
 ### Video
 [https://drive.google.com/file/d/1iTZQwepynuCG4nbjV0zh1Sexxa6LMkq5/view?usp=sharing]
 
-*Explain what the video demonstrates - key features, user flow, technical highlightsThe demo video provides a complete walkthrough of SmartNote, covering all major features and technical capabilities of the platform.
+key features, user flow, technical highlightsThe demo video provides a complete walkthrough of SmartNote, covering all major features and technical capabilities of the platform.
 
 🔐 1. User Authentication
 
@@ -211,7 +211,7 @@ Publish publicly
 
 Explore other notes
 
-Like and fork*
+Like and fork
 
 ---
 
@@ -260,7 +260,6 @@ Like and fork*
 -Firebase integration
 
 -Testing & debugging
-*Note: Proper documentation of AI usage demonstrates transparency and earns bonus points in evaluation!*
 
 ---
 
