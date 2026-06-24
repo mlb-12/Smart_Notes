@@ -163,7 +163,7 @@ key features, user flow, technical highlightsThe demo video provides a complete 
 
 🔐 1. User Authentication
 
-- User signs up and logs in using Firebase Authentication (Email/Password).
+- User signs up and logs in using Firebase Authentication(Email/Password).
 
 - Secure access ensures personalized note management.
 
